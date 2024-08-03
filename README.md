@@ -4,11 +4,6 @@ A Booking Cinema App created using NextJS 13.4 + Server Action, Prisma ORM + Sup
 
 https://github.com/jswebguru/cinema_booking_system/assets/75233529/4eb9e63b-3672-41bf-8c97-e802c33985ac
 
-> **Warning**
-> Project is made based on Compfest 15 SEA candidate.
-> 
-> This project is still in development and is not ready for production use.
-
 ## Tech Stack
 
 - [Next.js](https://nextjs.org) + Server action
@@ -24,7 +19,6 @@ https://github.com/jswebguru/cinema_booking_system/assets/75233529/4eb9e63b-3672
 - Manual deposit and withdrawal
 - Cancel order ability
 - User under movie age cannot booked ticket
-- Randomize username using faker-js
 
 ## To Do
 
